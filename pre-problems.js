@@ -1,4 +1,26 @@
 /*
+  Given a file input, output the contents of a file
+  to the console
+*/
+
+const input = require('fs').readFileSync('file.txt', 'utf8');
+
+console.log(input)
+
+/*
+  Create a constant equal to 1
+  Write a test to prove it equals 1
+  Write a test to prove it does not equal anything other than 1
+  Use "assert", remember to include the library in REPL.it
+*/
+
+let assert = require('assert');
+
+const a = 1
+assert.equal(a, 1, 'Equal Test failed')
+assert.notEqual(a, 2, 'Not Equal Test failed')
+
+/*
 1. String to array
 Take this string
 
@@ -44,6 +66,8 @@ Create an object of arrays:
 
   [1,1,2,3,4,5,5,5,6,7,7,8,9,10,11,12,13,14,14,15]
 */
+
+
 
 /*
   Sum the largest two of three numbers
