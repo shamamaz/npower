@@ -69,6 +69,17 @@ const result = splitted.map(str => str.split(' ').filter(item => item.length > 0
   [1,1,2,3,4,5,5,5,6,7,7,8,9,10,11,12,13,14,14,15]
 */
 
+const intermediate_result = {}
+
+const input = [1,1,2,3,4,5,5,5,6,7,7,8,9,10,11,12,13,14,14,15]
+
+input.forEach(item => {
+  intermediate_result[item] = item
+})
+
+const result = Object.keys(intermediate_result).map(item => parseInt(item))
+
+console.log(result)
 
 
 /*

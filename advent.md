@@ -2,7 +2,6 @@
 
 - it's okay to make mistakes, in fact it is encouraged
 - it's better to struggle with one of these problems, and not have the solution ready, than to just read some blog posts or follow a tutorial...they will learn more this way
-- is it better to struggle for a few hours, and not have a solution, than to read about `<insert framework here>` or `<follow some tutorial here>`...the answer is YES
 - discourage looking up a solution before they have their own solution
 - if they get stuck, that's what we are here for
 - if they have a question, ask! This is a good environment to ask questions. If you don't know the answer to what they are asking, someone else will and this is okay
@@ -44,6 +43,7 @@ This is because [Repl.it](https://repl.it/) does not stack overflow when a stude
 - do something with that array
 - log it to the console
 - copy and paste that console result into the Advent of Code program
+- write tests to see if the example inputs result in the example outputs
 - if you are correct, tada! You can move onto the next problem set
 
 ## Approaches
