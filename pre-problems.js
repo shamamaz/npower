@@ -12,13 +12,14 @@ console.log(input)
   Write a test to prove it equals 1
   Write a test to prove it does not equal anything other than 1
   Use "assert", remember to include the library in REPL.it
+  Note: undefined means the test passed
 */
 
 let assert = require('assert');
 
-const a = 1
-assert.equal(a, 1, 'Equal Test failed')
-assert.notEqual(a, 2, 'Not Equal Test failed')
+const SOME_CONSTANT = 1
+assert.equal(SOME_CONSTANT, 1, 'Equal Test failed')
+assert.notEqual(SOME_CONSTANT, 2, 'Not Equal Test failed')
 
 /*
 1. String to array
@@ -31,20 +32,17 @@ And use it to create the following array:
 [1,2,3,4,5]
 */
 
-// Approach 1, use a loop
 
-
-// Approach 2, use a built-in string method
-
-
+const result = "1,2,3,4,5".split(',')
+console.log(result)
 
 /*
 2. Array to groups of arrays
 Given the following file input (string format)
 
-  775  785  361
+  `775  785  361
   622  375  125
-  297  839  375
+  297  839  375`
 
 Create an object of arrays:
 
@@ -56,7 +54,11 @@ Create an object of arrays:
 */
 
 // use split to split by line (\n character)
+const splitted = `775  785  361
+622  375  125
+297  839  375`.split('\n')
 
+const result = splitted.map(str => str.split(' ').filter(item => item.length > 0).map(item => parseInt(item)))
 // use map to create an array
 
 /*
