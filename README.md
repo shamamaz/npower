@@ -14,10 +14,12 @@ If they complete these challenges, they can move on to the intermediate ones.
 # Intermediate Challenges
 If your learner has some JavaScript experience but is relatively new to programming, they can start [here](https://repl.it/@swbloom/Intermediate-JS-Part-One)
 
+# Advanced Challenges
+If your learner group is more advanced, they should begin with the Advent of Code pre-problems, found [here](pre-problems.js)
+
+Finally, once these are all complete, they can begin attempting to tackle the advent of code challenges:
 
 # Advent of Code
-If your student is more advanced, they can proceed to the advent of code questions.
-
 Advent of code notes are [here](advent.md)
 
 
