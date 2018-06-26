@@ -5,7 +5,7 @@ Prepatory notes for folks helping out with the Npower initiatives can be found h
 # Session One: Intro to Programming
 
 # Beginner Challenges
-If this is your learner group's first time working with a programming language, start them [here](https://repl.it/@swbloom/IdealisticPotableAudacity).
+If this is your learner group's first time working with a programming language, start them [here](https://repl.it/@swbloom/Beginner-JS-Part-One).
 
 If they complete these challenges, they can move on to [these ones next](https://repl.it/@swbloom/Beginner-JS-Part-Two)
 
