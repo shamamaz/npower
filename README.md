@@ -26,4 +26,6 @@ Advent of code notes are [here](advent.md)
 
 
 # Whiteboarding questions
+These are general questions that are to provide an opportunity for participants to improve and focus on presentation skills as well as solutioning for problems. Focus is less on code, and more on their journey in deriving their solution.
 
+Whiteboarding problems are [here](whiteboard.md)
