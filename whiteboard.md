@@ -20,3 +20,14 @@ An API service will be used to consume and create content from this database. De
 - Create a new article for an issue, e.g. `POST /articles` or another possibility `POST /issues/X/Y/articles`
 - Update an article, e.g. `PUT/PATCH /articles/:id`. Converation point: PUT vs PATCH. Candidate should be aware of the common update patterns
 - Delete an article, e.g. `DELETE /articles/:id`
+
+### Online Streaming Service
+#### Overview
+We require a video streaming site, which will display tv shows and movies to users. The primary feature on this site will be its "Recommended for you" section, which will be based on the viewing history and ratings that the user provides for the videos that they watch. Metadata including categories, title tags, length, studio, and director information, will be stored on each video. It will be used to primarily separate the site into various categories, which the user may be recommended as a whole as well. 
+
+##### Database Design
+- Design a DB schema that captures the domain above.
+-- Mentor should guide conversation, including discussions around optimized storage for large files, and how metadata and how to optimize internet streaming speed, as well as retrieve and categorize the information from the metadata.
+-- Discussion can include best UI practices and storage for ratings (stars vs thumbs up), and discussion around the social aspect, and how recommendations will be made.
+- Design a recommendation algorithm, that assumes that each user gives a score from 1-5 (1 being "disliked a lot", 5 being "really liked") on each video that they have watched, and are recommended other videos based on the scores of similar users on videos. User similarity is decided by aggregating their ratings, and determing which users give certain videos similar ratings.
+-- Mentor should guide discussion on database efficiency. Will these recommendations be generated each time based on the similarity ratings? 
