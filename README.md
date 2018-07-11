@@ -24,7 +24,8 @@ Advent of code notes are [here](advent.md)
 
 
 
-# Session Two: Finding a Job
+
+# Session Two: Job Hunting Tools & Interviews
 
 
 # Whiteboarding questions
