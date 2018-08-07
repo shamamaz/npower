@@ -41,17 +41,20 @@ You can find the design and repo [here](https://github.com/swbloom/personal-port
 # Session Four: Relationship Building 
 
 <b>Resources</b>
+
 [LinkedIn 101s](https://www.themuse.com/advice/the-31-best-linkedin-profile-tips-for-job-seekers)
 
 [How to write a LinkedIn note](https://www.themuse.com/advice/how-to-write-linkedin-messages-that-actually-get-read)
 
-[Cover Letter] (https://www.themuse.com/advice/the-cover-letter-formula-that-skyrocketed-my-interviews-from-0-to-55)& [Template] (https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze)
+[Cover Letter] (https://www.themuse.com/advice/the-cover-letter-formula-that-skyrocketed-my-interviews-from-0-to-55) & 
+
+[Template] (https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze)
 
 [Elevator Pitch](https://www.theladders.com/career-advice/the-ultimate-guide-to-crafting-your-elevator-pitch)
 
 [Resume Tips ](https://www.themuse.com/advice/43-resume-tips-that-will-help-you-get-hired)
 
-	[How to write about your transferable skills](https://twitter.com/dtwps/status/989995348755132416?s=21)  
+[How to write about your transferable skills](https://twitter.com/dtwps/status/989995348755132416?s=21)  
 
 [Intro Email](https://www.themuse.com/advice/introducing-the-email-template-thatll-get-you-a-meeting-with-anyone-you-ask) 
 
@@ -61,11 +64,12 @@ You can find the design and repo [here](https://github.com/swbloom/personal-port
 
 [Mentorship Muscles](http://leadership.civicaction.ca/whats-new/event-recap/flexing-mentorship-muscles/)
 
-	[How to ask for a mentor](https://twitter.com/amelielamont/status/997517570923253760?s=21)
+[How to ask for a mentor](https://twitter.com/amelielamont/status/997517570923253760?s=21)
 
 [Word Cloud](https://worditout.com/word-cloud/create) - Use this to put in a job description and identify the words they use most often 
 
 <b>Meetups and Groups</b>
+
 [Meetup](https://www.meetup.com/)
 
 [Eventbrite](https://www.eventbrite.com/)
@@ -86,12 +90,13 @@ You can find the design and repo [here](https://github.com/swbloom/personal-port
 
 [TechTO](https://www.techtoronto.org/)
 
-[Community Builders ](https://communitybuilders.io/)
+[Community Builders](https://communitybuilders.io/)
 
 
 
 
 <b> Professional Associations </b>
+
 [Black Professionals in Technology] (http://www.bptn.ca/) 
 
 [North American Association of Asian Professionals Toronto](http://to.naaap.org/about-naaap-to/)
@@ -103,6 +108,7 @@ You can find the design and repo [here](https://github.com/swbloom/personal-port
 [CivicAction Emerging Leaders Network](http://www.civicaction.ca/emerging-leaders-network/)
 
 <b>Career and Job Advice Newsletters </b>
+
 [The Muse](https://www.themuse.com/)
 
 [Ladders](https://www.theladders.com/career-advice)
