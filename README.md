@@ -46,9 +46,9 @@ You can find the design and repo [here](https://github.com/swbloom/personal-port
 
 [How to write a LinkedIn note](https://www.themuse.com/advice/how-to-write-linkedin-messages-that-actually-get-read)
 
-[Cover Letter] (https://www.themuse.com/advice/the-cover-letter-formula-that-skyrocketed-my-interviews-from-0-to-55) & 
+[Cover Letter](https://www.themuse.com/advice/the-cover-letter-formula-that-skyrocketed-my-interviews-from-0-to-55) & 
 
-[Template] (https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze)
+[Template](https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze)
 
 [Elevator Pitch](https://www.theladders.com/career-advice/the-ultimate-guide-to-crafting-your-elevator-pitch)
 
@@ -74,9 +74,9 @@ You can find the design and repo [here](https://github.com/swbloom/personal-port
 
 [Eventbrite](https://www.eventbrite.com/)
 
-[ClearCareer] (https://www.facebook.com/groups/clearcareer/) & [Newsletter] (http://clearcareer.ca/)
+[ClearCareer](https://www.facebook.com/groups/clearcareer/) & [Newsletter](http://clearcareer.ca/)
 
-[IntersectTO BIPOC in Tech] (https://www.facebook.com/groups/819469708223930/)
+[IntersectTO BIPOC in Tech](https://www.facebook.com/groups/819469708223930/)
 
 [DesignX](https://designx.community/)
 
@@ -97,7 +97,7 @@ You can find the design and repo [here](https://github.com/swbloom/personal-port
 
 <b> Professional Associations </b>
 
-[Black Professionals in Technology] (http://www.bptn.ca/) 
+[Black Professionals in Technology](http://www.bptn.ca/) 
 
 [North American Association of Asian Professionals Toronto](http://to.naaap.org/about-naaap-to/)
 
