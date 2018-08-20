@@ -22,6 +22,11 @@ Finally, once these are all complete, they can begin attempting to tackle the ad
 # Advent of Code
 Advent of code notes are [here](advent.md)
 
+<b>Resources</b>
+
+
+[Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+
 
 
 
@@ -32,6 +37,41 @@ Advent of code notes are [here](advent.md)
 These are general questions that are to provide an opportunity for participants to improve and focus on presentation skills as well as solutioning for problems. Focus is less on code, and more on their journey in deriving their solution.
 
 Whiteboarding problems are [here](whiteboard.md)
+
+
+<b>Resources</b>
+
+[LinkedIn 101s](https://www.themuse.com/advice/the-31-best-linkedin-profile-tips-for-job-seekers)
+
+<i>Salary Resources </i>
+[Glassdoor](https://www.glassdoor.ca/Salaries/index.htm)
+[Payscale](https://www.payscale.com/)
+
+
+<i>Learning Resources (interview prep)</i>
+
+
+[How the Web Works: A Primer for Newcomers to Web Development or Anyone Really](https://medium.freecodecamp.org/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c)
+
+[I spent 3 months applying to jobs after a coding bootcamp. Here's what I learned.](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331) 
+
+[Lynda at the Toronto Public Library](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEDB0187&R=EDB0187)
+
+[Canada Learning Code](https://www.canadalearningcode.ca/)
+
+[Grokking Algorithms](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM3660413&R=3660413)
+
+[Codein Game](https://www.codingame.com/start)
+
+[Leet Code](https://leetcode.com/)
+
+<i> Interviews</i>
+
+[5 wacky interview questions you'll hear at companies like Zappos, Slack, and Warby Parker](https://www.businessinsider.com/wacky-interview-questions-successful-bosses-2017-1)
+
+[How to Answer the 10 Most-Asked Tech Interview Questions](https://www.indeed.com/prime/resources/talent/how-to-answer-the-10-most-asked-tech-interview-questions)
+
+[Whiteboarding questions](https://github.com/twg/npower/blob/master/whiteboard.md)
 
 # Session Three: Building your Own Webpage 
 
